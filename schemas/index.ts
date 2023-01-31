@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import todo from './todo'
+
+export const schemaTypes = [todo]
